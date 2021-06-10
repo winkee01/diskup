@@ -186,11 +186,6 @@ def draw_table():
     plt.plot(x, tb, 'y-', label='tb')
 
 
-# plt.stem(try_x, y[try_x], 'ok--')
-# plt.setp(markerline, marker='o', color='black')
-
-# plt.annotate('{}'.format(try_x), xy=(try_x, 0), xytext=(try_x-6, -9),color='red')
-
 def draw_legend():
     plt.legend(frameon=False, loc='upper left', ncol=2)
 
