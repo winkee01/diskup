@@ -5,7 +5,7 @@ By visualizing the disk usage throughout the whole plotting process, you can fin
 
 For example, you have a 380GB SSD, and you want to find out if you can run 2 plotting jobs and when can you start the second job, you can tell it from this graph.
 
-![](https://github.com/winkee01/diskup/blob/main/image.png?raw=true) 
+![](https://github.com/winkee01/diskup/blob/master/sample.png?raw=true) 
 
 ### Usage
 
